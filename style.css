@@ -1,0 +1,26 @@
+.countainer{
+    /* display: flex; */
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    max-width: 350px;
+    width: 100%;
+}
+
+.calc_main{
+    align-items: center;
+}
+
+/* .calc_input{
+     
+} */
+
+.calc_btn{
+    flex-wrap: wrap;
+    width: px;
+    /* display: flex; */
+    gap: 20px;
+}
+
+.calc_btn button{
+    width: 20px;
+}
